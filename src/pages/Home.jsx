@@ -12,7 +12,7 @@ const Home = () => {
             transition={{ duration: 0.8 }}
             className="text-4xl font-serif mb-4"
           >
-            Diseño arquitectónico CRC
+            Estudio diseño arquitectónico CRC
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 20 }}

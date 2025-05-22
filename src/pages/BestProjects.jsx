@@ -26,7 +26,7 @@ const BestProjects = () => {
                             <img src={reactLogo} alt="Proyecto" className="w-full h-48 object-cover" />
                             <div className="p-4">
                                 <h3 className="text-xl font-semibold mb-2">Casa Familiar #{item}</h3>
-                                <p className="text-sm text-neutral-600">Diseño orientado a la eficiencia y confort. Tramitación municipal completa.</p>
+                                <p className="text-sm text-neutral-600">Diseño orientado a la eficiencia y confort. Tramitación municipal completa. CRC</p>
                             </div>
                         </Card>
                     ))}
